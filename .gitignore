@@ -129,3 +129,9 @@ bin-int/Debug-windows-x86_64/GLFW/GLFW.tlog/Lib-link.write.1.tlog
 bin-int/Debug-windows-x86_64/GLFW/GLFW.tlog/Lib.command.1.tlog
 bin-int/Debug-windows-x86_64/GLFW/GLFW.lib.recipe
 bin-int/Debug-windows-x86_64/GLFW/GLFW.log
+bin-int/Debug-windows-x86_64/GLFW/null_init.obj
+bin-int/Debug-windows-x86_64/GLFW/null_joystick.obj
+bin-int/Debug-windows-x86_64/GLFW/null_monitor.obj
+bin-int/Debug-windows-x86_64/GLFW/null_window.obj
+bin-int/Debug-windows-x86_64/GLFW/platform.obj
+bin-int/Debug-windows-x86_64/GLFW/win32_module.obj
